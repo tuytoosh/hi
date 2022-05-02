@@ -1,0 +1,21 @@
+{
+    "name": "tuytoosh/hi",
+    "description": "a test repo!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tuytoosh\\Hi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamid Haghdoost",
+            "email": "tuytoosh@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
