@@ -4,6 +4,6 @@ namespace Tuytoosh\Hi;
 
 class Say {
     public static function it () {
-        echo "everything is ok.\n";
+        echo "working on v7.3.\n";
     }
 }
